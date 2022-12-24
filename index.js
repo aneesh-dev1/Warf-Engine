@@ -11,10 +11,10 @@ let win
 
 function createWindow() {
     var template = [{
-            label: "Gramateria",
+            label: "Warf Engine",
             submenu: [
                 {
-                    label: "About Gramateria",
+                    label: "About Warf Engine",
                     selector: "orderFrontStandardAboutPanel:"
                 },
                 {
