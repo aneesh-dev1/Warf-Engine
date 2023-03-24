@@ -44,7 +44,7 @@ export default [
         </div>
       </nav>
       <section id="hero" class="d-flex flex-column align-items-center justify-content-center pt-4">
-        <h2 class="hero-title display-2 text-uppercase mt-5"><span class="text-primary">G</span>ramateria</h2>
+        <h2 class="hero-title display-2 text-uppercase mt-5"><span class="text-primary">W</span>arf Engine</h2>
         <p class="hero-subtitle display-6">Fastest way to build single HTML pages</p>
         <div class="hero-buttons my-5">
           <button class="btn btn-primary me-2">
